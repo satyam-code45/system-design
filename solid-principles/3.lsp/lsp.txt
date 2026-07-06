@@ -1,0 +1,3 @@
+L: Liskov Substitution Principle
+
+-> Subclasses should be substitutable for their Base class
