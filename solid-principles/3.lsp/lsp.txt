@@ -1,3 +1,23 @@
 L: Liskov Substitution Principle
 
 -> Subclasses should be substitutable for their Base class
+
+
+three guidelines to make code follow lsp
+->signature rule
+->property rule
+->method rule
+
+
+# Note:
+    Broad class  -> parent class
+    narrow class -> child class
+
+# Signature rule
+->function/method when overidden in the child class the signature mehtods remains same 
+->  class Parent{
+        void solve(string s){}
+    }
+->  class child public parent {
+        void solve(string s){}
+    }
