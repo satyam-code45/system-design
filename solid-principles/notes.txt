@@ -7,7 +7,3 @@ I:  Interface Segration principle(ISP)
 D:  Dependency Inversion principle(DIP)
 
 
-S:  single responsibility principle(SRP)
--> A class should have only one reason to change
--> A class should do only one thing
-

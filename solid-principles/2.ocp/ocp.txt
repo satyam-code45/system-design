@@ -1,0 +1,2 @@
+O: Open Close Principle
+-> A class should be open for the extension but close for modification
