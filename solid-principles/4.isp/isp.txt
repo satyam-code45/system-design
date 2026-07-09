@@ -1,0 +1,3 @@
+Inteface segregation principle(ISP):
+->Many client specific interface are better than one general purpose interface
+->client should now be forced to implement methods they don't allow.
