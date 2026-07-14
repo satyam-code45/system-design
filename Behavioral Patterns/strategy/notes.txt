@@ -1,0 +1,2 @@
+Strategy Design Pattern
+-> Defines a family of algorithm put them into separate classes so that they can be changed at run time.
