@@ -1,0 +1,19 @@
+The Singleton Design Pattern is a creational design pattern that ensures only one instance of a class exists throughout the application's lifecycle and provides a global access point to that instance.
+
+Why use Singleton?
+
+Use Singleton when:
+
+Only one object should exist (e.g., configuration manager, logger, cache).
+Multiple parts of the application need to access the same object.
+Creating multiple instances would cause inconsistent behavior or waste resources.
+
+
+How to create it??
+->Create a private constructor
+->Create a static instance(getInstance) that returns the same instance every time.
+
+Real-world Example
+->Logging system
+->Database Connection
+->Configuration manager
